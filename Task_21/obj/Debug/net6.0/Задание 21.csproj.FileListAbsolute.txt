@@ -1,0 +1,15 @@
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\bin\Debug\net6.0\Задание 21.exe
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\bin\Debug\net6.0\Задание 21.deps.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\bin\Debug\net6.0\Задание 21.runtimeconfig.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\bin\Debug\net6.0\Задание 21.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\bin\Debug\net6.0\Задание 21.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.csproj.AssemblyReference.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.AssemblyInfoInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.AssemblyInfo.cs
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.csproj.CoreCompileInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\refint\Задание 21.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\Задание 21.genruntimeconfig.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 21\obj\Debug\net6.0\ref\Задание 21.dll
