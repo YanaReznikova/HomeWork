@@ -1,0 +1,15 @@
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\bin\Debug\net6.0\Task_27.exe
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\bin\Debug\net6.0\Task_27.deps.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\bin\Debug\net6.0\Task_27.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\bin\Debug\net6.0\Task_27.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Task_27\obj\Debug\net6.0\ref\Task_27.dll
