@@ -1,0 +1,30 @@
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\bin\Debug\net6.0\Задание сейчас.exe
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\bin\Debug\net6.0\Задание сейчас.deps.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\bin\Debug\net6.0\Задание сейчас.runtimeconfig.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\bin\Debug\net6.0\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\bin\Debug\net6.0\Задание сейчас.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.csproj.AssemblyReference.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.AssemblyInfoInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.AssemblyInfo.cs
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.csproj.CoreCompileInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\refint\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\Задание сейчас.genruntimeconfig.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\obj\Debug\net6.0\ref\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\bin\Debug\net6.0\Задание сейчас.exe
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\bin\Debug\net6.0\Задание сейчас.deps.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\bin\Debug\net6.0\Задание сейчас.runtimeconfig.json
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\bin\Debug\net6.0\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\bin\Debug\net6.0\Задание сейчас.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.csproj.AssemblyReference.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.AssemblyInfoInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.AssemblyInfo.cs
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.csproj.CoreCompileInputs.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\refint\Задание сейчас.dll
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.pdb
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\Задание сейчас.genruntimeconfig.cache
+C:\Users\Golde\OneDrive\Рабочий стол\Задание сейчас\Задание 19\obj\Debug\net6.0\ref\Задание сейчас.dll
